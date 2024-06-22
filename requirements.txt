@@ -1,0 +1,6 @@
+hezar
+librosa
+optimum
+onnxruntime
+onnx
+onnxruntime-extensions
